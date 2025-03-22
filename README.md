@@ -1,4 +1,4 @@
-# BusquedaClima
+# Busqueda Clima
 
 Este es un programa en Python que permite consultar el clima actual de cualquier ciudad utilizando la API de [WeatherAPI](https://www.weatherapi.com/).
 
@@ -18,7 +18,7 @@ Este es un programa en Python que permite consultar el clima actual de cualquier
 3. Reemplaza `TU_API_KEY` en el código con tu clave API.
 4. Ejecuta el script:
    ```sh
-   python nombre_del_archivo.py
+   python notificador_clima.py
    ```
 5. Ingresa el nombre de la ciudad cuando se te pida.
 
